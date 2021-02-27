@@ -1,5 +1,6 @@
 [win]
-hostip
+hostip1
+hostip2
 
 [win:vars]
 ansible_user=developer
